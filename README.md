@@ -24,3 +24,4 @@
 1. The core clinical scientific question
 2. The target sensor arrays utilized to collect the underlying data points
 3. The architectural setup and results of the statistical/analytical computing environment (Python)
+
