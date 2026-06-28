@@ -25,3 +25,13 @@
 2. The target sensor arrays utilized to collect the underlying data points
 3. The architectural setup and results of the statistical/analytical computing environment (Python)
 
+
+**Repository Files & Structure:**
+  
+**`DI-Connect.zip`**: Contains the raw, uncompressed personal JSON telemetry and biomarker files extracted from the Garmin watch used to drive the analysis.
+  
+**`Depression_Warning.ipynb`**: The primary data analytics environment (built via Google Colab) containing the data parsing, preprocessing, and statistical evaluation scripts.
+
+**`Slides Early Warning Detection Depression.pdf`**: The core 3-slide presentation detailing the clinical scientific question, sensor tracking arrays, and the data analytics architecture.
+
+
